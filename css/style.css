@@ -19,32 +19,37 @@ body {
 
 .timeline-one .year-content-wrap,
 .timeline-one .year-wrapper-year {
-  background: #d87966;
+  background: #d87966;  /* moderate red */
 }
 
 .timeline-two .year-content-wrap,
 .timeline-two .year-wrapper-year {
-  background: #38366e;
+  background: #670000;  /* blood red */
 }
 
 .timeline-three .year-content-wrap,
 .timeline-three .year-wrapper-year {
-  background: #1b2c3c;
+  background: #b37400;  /* strong orange */
 }
 
 .timeline-four .year-content-wrap,
 .timeline-four .year-wrapper-year {
-  background: #d87966;
+  background: #00b300;  /* strong lime green */
 }
 
 .timeline-five .year-content-wrap,
 .timeline-five .year-wrapper-year {
-  background: #38366e;
+  background: #ffff00;  /* pure yellow */
 }
 
 .timeline-six .year-content-wrap,
 .timeline-six .year-wrapper-year {
-  background: #1b2c3c;
+  background: #346700;  /* very dark green */
+}
+
+.timeline-seven .year-content-wrap,
+.timeline-seven .year-wrapper-year {
+  background: #1b2c3c;  /* very dark desaturated blue */
 }
 
 .year-wrapper {
